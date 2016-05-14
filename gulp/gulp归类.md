@@ -1,5 +1,6 @@
 ##gulp API
 task src watch dest run start
+##常用插件的分类说明
 *    HTML&CSS
 	*    gulp-autoprefixer - parse CSS and add vendor prefixes to rules by Can I Use.
 
